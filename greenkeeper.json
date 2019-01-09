@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "01-React-News/package.json",
+        "02-React-Router/package.json"
+      ]
+    }
+  }
+}
